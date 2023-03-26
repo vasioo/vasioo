@@ -5,7 +5,7 @@
 <li><h4>🔭 I’m currently building a portfolio/looking for work<br></h4></li>
 <li><h4>📚 I’m currently learning Javascript front-end libraries👨‍💻<br></h4></li>
 <li><h4>💬 Ask me about backend development<br></h4></li>
-<li><h4>📫 How to reach me: <a href="vaskoorakov17@gmail.com">Click</a><br></h4></li>
+<li><h4>📫 How to reach me: vaskoorakov17@gmail.com<br></h4></li>
 </ul>
 
 <h3>Text me directly</h3>
