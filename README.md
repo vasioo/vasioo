@@ -9,7 +9,7 @@
 </ul>
 
 <h3>Text me directly</h3>
-<a href="https://www.linkedin.com/in/vasil-orakov-6a34a7254/">
+<a target="_blank" href="https://www.linkedin.com/in/vasil-orakov-6a34a7254/">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
 <h1 align="center">Tech stack</h1>
