@@ -11,7 +11,7 @@
 <h3>Text me directly</h3>
 <a  href="https://www.linkedin.com/in/vasil-orakov-6a34a7254/">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  target="_blank"</a> 
+ </a> 
 <h1 align="center">Tech stack</h1>
 <h2>Front-end</h2>
  <a href="#">
