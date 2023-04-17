@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋 I am Vasil</h1>
 <h3 align="center">Full-stack developer(Back-end dominating)</h3>
-<br>
+<br><p align="left">
+   <img src="https://komarev.com/ghpvc/?username=vasioo&label=Profile%20views&color=0e75b6&style=flat" alt="vasioo" /> </p>
 <ul>
 <li><h4>🔭 I’m currently building a portfolio/looking for work<br></h4></li>
 <li><h4>📚 I’m currently learning Javascript front-end libraries👨‍💻<br></h4></li>
