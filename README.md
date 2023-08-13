@@ -59,4 +59,3 @@
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasioo&" /></a>
  <br>
  <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Vasil12?theme=dark&font=Arvo&ext=heatmap)
