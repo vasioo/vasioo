@@ -50,12 +50,6 @@
    <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
-  
-  <h2>Frameworks</h2>
-    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-  
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasioo&" /></a>
  <br>
  <br>
