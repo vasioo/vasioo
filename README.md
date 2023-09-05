@@ -3,7 +3,7 @@
 <br><p align="left">
    <img src="https://komarev.com/ghpvc/?username=vasioo&label=Profile%20views&color=0e75b6&style=flat" alt="vasioo" /> </p>
 <ul>
-<li><h4>🔭 I’m currently building a portfolio/looking for work<br></h4></li>
+<li><h4>🔭I’m currently building a portfolio/looking for work<br></h4></li>
 
 <li><h4>💬 Ask me about backend development<br></h4></li>
 <li><h4>📫 How to reach me: vaskoorakov17@gmail.com<br></h4></li>
