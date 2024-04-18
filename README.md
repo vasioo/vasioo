@@ -3,9 +3,9 @@
 <br><p align="left">
    <img src="https://komarev.com/ghpvc/?username=vasioo&label=Profile%20views&color=0e75b6&style=flat" alt="vasioo" /> </p>
 <ul>
-<li><h4>🔭I’m currently building a portfolio/looking for work<br></h4></li>
+<li><h4>🔭I’m currently looking for work<br></h4></li>
 
-<li><h4>💬 Ask me about backend development<br></h4></li>
+<li><h4><a href="https://vasioo.github.io/Portfolio/" target="_blank">Click here for portfolio</a></h4></li>
 <li><h4>📫 How to reach me: vaskoorakov17@gmail.com<br></h4></li>
 </ul>
 
@@ -15,40 +15,29 @@
  </a> 
 <h1 align="center">Tech stack</h1>
 <h2>Front-end</h2>
- <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" style="vertical-align:top margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-<h2>Back-end</h2>
- <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <h2>Databases</h2>
-  <a href="#">
-  <img src="https://camo.githubusercontent.com/3de426aceb1e3852d35ad919cdd74fc9729586ab2387b8065278c7069f0d7a22/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937353435303830373833333037393837312f313032363739343131363737383033373234382f4d5353514c2e706e67" style="width: 130px; max-width: 100%;" data-canonical-src="https://cdn.discordapp.com/attachments/975450807833079871/1026794116778037248/MSSQL.png">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,gulp,bootstrap,vite" />
   </a>
-  <a href="#">
-   <img src="https://camo.githubusercontent.com/2e2daf43a7adb23cdd582c362fb8025b5f24e535c39bcb35c448c388c489df1b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937353435303830373833333037393837312f3939313239353432303534383532363134302f73716c2e706e67" style="width: 130px; max-width: 100%;" data-canonical-src="https://cdn.discordapp.com/attachments/975450807833079871/991295420548526140/sql.png">
-  </a> 
-  
+</p>
+<h2>Back-end</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+</p>
+  <h2>Databases</h2>
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+     <img width="50px" src="https://github.com/vasioo/vasioo/assets/78680789/ab73a6b9-7d8d-4405-9bf1-4a67048c6e39">
+  </a>
+</p>
   <h2>Tools</h2>
-    <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-  
-   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-  
-   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
+   <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,git,github,githubactions,npm,postman,visualstudio,vscode" />
+  </a>
+</p>
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasioo&" /></a>
- <br>
-  
  <br>
