@@ -23,7 +23,7 @@
 <h2>Back-end</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,nodejs,php" />
   </a>
 </p>
   <h2>Databases</h2>
